@@ -12,7 +12,7 @@ receiving such patches depends on the CVSS v3.0 Rating:
 ## Reporting a Vulnerability
 
 If you discover a security vulnerability within this package, please send an email to
-jimmy@example.com. All security vulnerabilities will be promptly addressed.
+jimmy@ahalpara.com. All security vulnerabilities will be promptly addressed.
 
 Please do not disclose security-related issues publicly until a fix has been announced.
 
